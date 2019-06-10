@@ -1,0 +1,22 @@
+{
+  "name": "uploadpage",
+  "version": "1.0.0",
+  "description": "learn to upload with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PioterDz/node-uploadpage.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "PiotrDz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PioterDz/node-uploadpage/issues"
+  },
+  "homepage": "https://github.com/PioterDz/node-uploadpage#readme"
+}
